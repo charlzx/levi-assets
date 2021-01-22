@@ -1881,7 +1881,7 @@ body.header-below:not(.template-slider) #Header {
 .header-split #Action_bar .contact_details li, .header-split #Action_bar .social, .header-split #Action_bar .social-menu {
 	padding: 12px 0;
 }
-.header-stack {}
+/* .header-stack {} */
 .header-stack #Header .top_bar_left {
 	width: 100% !important;
 }

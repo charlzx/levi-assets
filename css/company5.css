@@ -2190,7 +2190,7 @@ a.action_button{display:none;}
 		display: none !important
 	}
 	#Footer .widgets_wrapper {
-		padding: 110px 0 80px
+		padding: 50px 0px;
 	}
 	/*
 |--------------------------------------------------------------------------
@@ -2304,17 +2304,17 @@ a.action_button{display:none;}
 	.the-icons.span3 .i-name {
 		padding-left: 40px;
 	}
-	@media only screen and min-width: 768px and max-width: 959px {
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
 		.the-icons.span3 {
 			width: 33.333%;
 		}
 	}
-	@media only screen and min-width: 480px and max-width: 767px {
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
 		.the-icons.span3 {
 			width: 50%;
 		}
 	}
-	@media only screen and max-width: 479px {
+	@media only screen and (max-width: 479px) {
 		.the-icons.span3 {
 			width: 100%;
 		}
