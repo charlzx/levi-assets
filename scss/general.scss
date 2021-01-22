@@ -1,1 +1,12 @@
-@import "homepage";
+// General
+@media (max-width: 767px) {
+    #centerize, #centered {
+        text-align: center;
+    }
+}
+
+// target: index.html
+@import "index";
+
+// target: investments.html
+@import "investments"

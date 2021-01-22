@@ -1,3 +1,8 @@
+@media (max-width: 767px) {
+  #centerize, #centered {
+    text-align: center;
+  }
+}
 .tp-mask-wrap > #slide-1-layer-6 {
   font-size: 20px;
 }
@@ -117,6 +122,11 @@
 @media (min-width: 501px) and (max-width: 580px) {
   #tp-parallax-ll, #tp-parallax-ff, #tp-parallax-dd, #tp-parallax-xx {
     left: 415px;
+  }
+}
+@media (max-width: 767px) {
+  .margined {
+    padding-top: 30px;
   }
 }
 
