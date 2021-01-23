@@ -1,0 +1,245 @@
+ul.list_mixed li:after, ul.list_check li:after, ul.list_star li:after, ul.list_idea li:after {
+  left: 50px;
+}
+
+.tp-mask-wrap > #slide-1-layer-6 {
+  font-size: 20px;
+}
+
+.tp-mask-wrap > #slide-1-layer-3 {
+  font-size: 50px;
+  line-height: 60px;
+}
+
+#tp-parallax-ll {
+  position: absolute;
+  display: block;
+  visibility: visible;
+  left: 392px;
+  top: 190px;
+  z-index: 5;
+}
+
+#tp-parallax-ff {
+  position: absolute;
+  display: block;
+  visibility: visible;
+  left: 392px;
+  top: 260px;
+  z-index: 6;
+}
+
+#tp-parallax-dd {
+  position: absolute;
+  display: block;
+  visibility: visible;
+  left: 392px;
+  top: 294px;
+  z-index: 27;
+}
+
+#tp-parallax-xx {
+  position: absolute;
+  display: block;
+  visibility: visible;
+  left: 392px;
+  top: 471px;
+  z-index: 8;
+}
+
+#hide-id1, #hide-id3 {
+  display: none;
+}
+
+#re-sect {
+  padding-top: 110px;
+}
+
+#rev_slider_1_1_wrapper {
+  height: 700px;
+}
+
+#space-in-top {
+  padding-top: 50px;
+}
+
+@media (max-width: 1224px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -100px;
+  }
+}
+@media (max-width: 1024px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -200px;
+  }
+}
+@media (max-width: 900px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -265px;
+  }
+}
+@media (max-width: 850px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -285px;
+  }
+}
+@media (max-width: 795px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -300px;
+  }
+}
+@media (max-width: 780px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -317.5px;
+  }
+}
+@media (max-width: 767px) {
+  #re-sect {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 750px) {
+  .tp-mask-wrap > #slide-1-layer-3 {
+    font-size: 47.5px;
+  }
+
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -327.5px;
+  }
+}
+@media (max-width: 700px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -345px;
+  }
+}
+@media (max-width: 685px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -368.5px;
+  }
+
+  .tp-mask-wrap > #slide-1-layer-3 {
+    font-size: 45.5px;
+  }
+}
+@media (max-width: 635px) {
+  .tp-mask-wrap > #slide-1-layer-3 {
+    font-size: 44px;
+  }
+
+  #tp-parallax-xx {
+    top: 511px;
+  }
+
+  #hide-id1, #hide-id3 {
+    display: block;
+  }
+
+  #hide-id2 {
+    display: none;
+  }
+}
+@media (max-width: 560px) {
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -370px;
+  }
+}
+@media (max-width: 500px) {
+  .tp-mask-wrap > #slide-1-layer-3 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+
+  #rev_slider_1_1 {
+    transform: scale(0.9) translateY(-45px);
+  }
+
+  #rev_slider_1_1_wrapper {
+    height: 600px;
+  }
+
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -320px;
+  }
+}
+@media (max-width: 425px) {
+  #rev_slider_1_1 {
+    transform: scale(0.8) translateY(-100px);
+  }
+
+  #rev_slider_1_1_wrapper {
+    height: 550px;
+  }
+}
+@media (max-width: 345px) {
+  #rev_slider_1_1 {
+    transform: scale(0.75) translateY(-130px);
+  }
+
+  #rev_slider_1_1_wrapper {
+    height: 490px;
+  }
+}
+@media (max-width: 310px) {
+  #rev_slider_1_1 {
+    transform: scale(0.68) translateY(-180px);
+  }
+
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -290px;
+  }
+
+  #rev_slider_1_1_wrapper {
+    height: 400px;
+  }
+
+  #space-in-top {
+    padding-top: 80px;
+  }
+}
+@media (max-width: 290px) {
+  #rev_slider_1_1 {
+    transform: scale(0.6) translateY(-275px);
+  }
+
+  #mfn-rev-slider > #rev_slider_1_1_wrapper {
+    position: relative;
+    left: -270px;
+  }
+
+  #space-in-top {
+    padding-top: 30px;
+  }
+}
+@media (max-width: 245px) {
+  #Wrapper {
+    transform: scale(0.9) translateY(-265px);
+  }
+
+  .tp-mask-wrap > #slide-1-layer-3 {
+    font-size: 30px;
+  }
+}
+@media (min-width: 501px) and (max-width: 700px) {
+  #tp-parallax-ll, #tp-parallax-ff, #tp-parallax-dd, #tp-parallax-xx {
+    left: 415px;
+  }
+}
+@media (min-width: 501px) and (max-width: 580px) {
+  #tp-parallax-ll, #tp-parallax-ff, #tp-parallax-dd, #tp-parallax-xx {
+    left: 415px;
+  }
+}
+
+/*# sourceMappingURL=index.css.map */

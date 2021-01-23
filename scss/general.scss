@@ -20,9 +20,13 @@
         vertical-align: top;
         max-height: 100%;
     }
-} 
-// target: index.html
-@import "index";
+    
+    #section1 {
+        width: 35%;
+    }
 
-// target: investments.html
-@import "investments"
+    #section2 {
+        width: 60%;
+    }
+
+}
