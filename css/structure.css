@@ -1010,7 +1010,7 @@ body.nice-scroll:not(.layout-boxed) {
 .highlight-left:after, .highlight-right:after {
 	content: "";
 	position: absolute;
-	width: 50%;
+	/* width: 50%; */
 	height: 100%;
 	top: 0;
 }
