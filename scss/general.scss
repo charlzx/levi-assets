@@ -5,6 +5,22 @@
     }
 }
 
+@media only screen and (max-width: 1239px) {
+	#Top_bar a.responsive-menu-toggle {
+		top: 15px;
+    }   
+
+    #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
+        height: 50px;
+        line-height: 100px;
+        padding: 10px 0;
+    }
+    
+    #Top_bar #logo img {
+        vertical-align: top;
+        max-height: 100%;
+    }
+} 
 // target: index.html
 @import "index";
 
