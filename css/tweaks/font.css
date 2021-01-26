@@ -1,0 +1,25 @@
+h1, h2, h3, h4, h5, p, li, body {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+
+body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+#menu>ul>li>a, a.action_button, #overlay-menu ul li a {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+#Subheader .title {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+h1, h2, h3, h4, .text-logo #logo {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+h5, h6 {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+blockquote {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
+.chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
+    font-family: "Krub", Arial, Tahoma, sans-serif;
+}
