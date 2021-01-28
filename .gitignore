@@ -3,3 +3,5 @@ themeforest.zip
 /.vscode
 /pages
 /asset
+/global/@import/
+/dashboard/@import/
