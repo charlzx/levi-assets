@@ -1,10 +1,29 @@
 // General
+li { 
+    list-style-type: none;
+}
+   
+#section1 {
+    align-self: center;
+    justify-content: center;
+    position: relative;
+}
+
+#section2 {
+    width: 35%;
+    text-align: right;
+}
+
+#section3 {
+    width: 60%;
+}
+
 @media (max-width: 767px) {
     #centerize, #centered {
         text-align: center;
     }
 }
-
+ 
 @media only screen and (max-width: 1239px) {
 	#Top_bar a.responsive-menu-toggle {
 		top: 15px;
@@ -20,15 +39,6 @@
         vertical-align: top;
         max-height: 100%;
     }
-    
-    #section1 {
-        width: 35%;
-    }
-
-    #section2 {
-        width: 60%;
-    }
-
 }
 
 // target: services.html
